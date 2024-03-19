@@ -1,4 +1,6 @@
-# Open Source Battery Data \n [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Open Source Battery Data <br> 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome open-source battery data and dataset directories for researchers, engineers, and enthusiasts in the field. This is the go-to directory for an overview of all different available datasets related to battery technology, including lithium-ion batteries, battery aging datasets, and more. Why awesome? Because it not only provides data but also encompasses the spirit of open-source collaboration and advancement in battery technology.
 
