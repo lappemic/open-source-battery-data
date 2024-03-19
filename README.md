@@ -29,3 +29,6 @@ Data from these institutions may be included in one or several of the above dire
 - **[Oxford](https://scholar.google.com/scholar_lookup?title=Diagnosis%20and%20Prognosis%20of%20Degradation%20in%20Lithium-Ion%20Batteries&publication_year=2017&author=C.%20Birkl)** - Focuses on the diagnosis and prognosis of degradation in lithium-ion batteries, essential for enhancing battery reliability and safety.
 - **[CALCE](https://www.sciencedirect.com/science/article/pii/S0378775311015400)** - Provides datasets related to battery life cycle analysis and health management, crucial for sustainability and efficiency in battery use.
 - **[RWTH](https://www.nature.com/articles/s41560-019-0356-8#data-availability)** - Offers data on lithium-ion battery research, with a focus on material science and engineering perspectives.
+
+## Contributing
+This is a living repo. Please feel free to contribute if you have additional ressources or by giving feedback.
